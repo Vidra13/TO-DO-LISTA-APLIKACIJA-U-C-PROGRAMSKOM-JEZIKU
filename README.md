@@ -148,4 +148,5 @@ Ovaj projekat je kreiran u obrazovne svrhe.
 
 ---
 
-**Napomena:** Projekat je rađen kao seminarski rad za kurs osnova programiranja
+**Napomena:** Projekat je rađen kao seminarski rad za predmet Sistemi za upravljanje dokumentima
+
